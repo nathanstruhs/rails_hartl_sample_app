@@ -1,5 +1,5 @@
 #Sample application using Ruby on Rails
 Michael Hartl Tutorial
 
-[Production App](https://polar-badlands-92427.herokuapp.com/)
+[Production App](https://rails-hartl-sample-app.herokuapp.com/)
 
