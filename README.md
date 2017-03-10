@@ -1,4 +1,4 @@
 # Nathan Struhs
-##Sameple application using Ruby on Rails
-###Michael Hartl Tutorial
+##Sample application using Ruby on Rails
+Michael Hartl Tutorial
 
