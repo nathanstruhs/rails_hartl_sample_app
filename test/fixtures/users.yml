@@ -1,1 +1,5 @@
 
+nathan: 
+  name: Nathan Struhs
+  email: struhsn@oregonstate.edu
+  password_digest: <%= User.digest('password') %>
