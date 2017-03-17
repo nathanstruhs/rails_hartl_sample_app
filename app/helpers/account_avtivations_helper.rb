@@ -1,0 +1,2 @@
+module AccountAvtivationsHelper
+end
